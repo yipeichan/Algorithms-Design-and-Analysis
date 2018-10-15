@@ -1,5 +1,5 @@
 # Algorithms: Design and Analysis
-This repository stores code scripts of the homework and learning notes of the course: Algorithms: Design and Analysis<br>
+This repository stores code scripts of the homework and learning notes of the course: "Algorithms: Design and Analysis"<br>
 
 ## Course Content<br>
 
