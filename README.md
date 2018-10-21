@@ -30,7 +30,7 @@ This repository stores code scripts of the homework and learning notes of the co
 1. myCalculator <br>
 Task Description<br>
 Develop a C++ application (called “myCalculator” perhaps) that, given as input a C/C++ arithmetic expression, (1) converts the input into a postfix expression and prints it out and (2) evaluates the expression and prints out the result. The simplest kind of arithmetic expression that your application must handle is a C/C++ constant integral expression built up from integers and the six arithmetic operators binary + (addition), binary - (subtraction), * (multiplication), / (division), % (remainder/modulo), and unary - (negation), with possible parentheses ( and ) to group subexpressions. Below are two examples:
-•1+2-3*4/5 <br>
+• 1+2-3*4/5 <br>
 • (-1 + 23 - 456) * (78 % 9) <br>
 Be careful with illegal inputs. When the input is illegal, your program should be able to report an error and stop (or ask for another input).<br>
 You may go beyond these basic requirements for extra credits, but please follow the C/C++ syntax and semantics for integral arithmetic expressions. For instance, you may choose to handle expressions that contain assignments such as:<br>
@@ -42,12 +42,9 @@ You may go beyond these basic requirements for extra credits, but please follow 
 Task Description<br>
 Develop a C++ application, called myDictionary, that reads a text file named knownWords.txt to set up an initial collection of English words (or Chinese phrases, if you prefer) and their definitions. It then waits to accept and process the user’s queries or updates (one by one from the command line).<br>
 A word whose definitions are to be given always starts on a new line in the file knownWords.txt. The word is followed by its pronunciation in some phonetic symbols (enclosed in ‘[‘ and ‘]’), a part-of-speech (POS) label, and its meanings under that POS class. A single dash (-) at the beginning of a line indicates continuation of the definitions of a word in the previous line. A double dash (--) indicates an additional POS label for the word. If the word has a different pronunciation under that POS class, it is enclosed in ‘(’ and ‘)’. Below is a small sample knownWords.txt with just three words.<br>
-contract [...] n. 1. an agreement between two parties. 2. a document<br>
-- describing the terms of a contract. 3. ...<br>
--- v. ([...]) 1. to establish or undertake by contract. 2. to reduce to<br>
-- smaller size. 3. ...<br>
-curiosity [...] n. 1. a desire to know about something. 2. something that<br>
-- is unusual.<br>
+contract [...] n. 1. an agreement between two parties. 2. a document describing the terms of a contract. 3. ...<br>
+-- v. ([...]) 1. to establish or undertake by contract. 2. to reduce to smaller size. 3. ...<br>
+curiosity [...] n. 1. a desire to know about something. 2. something that is unusual.<br>
 curious [...] adj. 1. interested. 2. unusual or difficult to understand.<br>
 After setting up the initial collection of words, myDictionary enters a loop waiting for the user to type a command such as the following:<br>
 • find curiosity<br>
