@@ -1,3 +1,11 @@
+/*
+*	b01303133_hw5.cpp
+*
+*	Created on:2016.10.15
+*	Author: Yi-Pei Chan (b01303133)
+*	Application: myCalculator
+*/
+
 /*the calculator considers six arithmetic operators binary + (addition), binary - (subtraction),
 * (multiplication), / (division), % (remainder/modulo), and unary - (negation), with
 possible parentheses ( and ) to group subexpressions.*/
