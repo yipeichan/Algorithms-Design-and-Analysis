@@ -1,6 +1,6 @@
 # Algorithms: Design and Analysis
 This repository stores code scripts of the homework and learning notes of the course: "Algorithms: Design and Analysis"<br>
-Part of the code are midified from lecture notes or text book, “Data Abstraction and Problem Solving with C++: Walls and Mirrors,” written by F.M. Carrano and T. Henry.
+Part of the code are modified from lecture notes or text book, “Data Abstraction and Problem Solving with C++: Walls and Mirrors,” written by F.M. Carrano and T. Henry.
 
 ## Course Content<br>
 
